@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31112.23
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "34282963_Mhlanga_Act4", "34282963_Mhlanga_Act4.csproj", "{2DE524C7-3675-4FDB-A97F-04E1E29C5576}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2DE524C7-3675-4FDB-A97F-04E1E29C5576}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2DE524C7-3675-4FDB-A97F-04E1E29C5576}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2DE524C7-3675-4FDB-A97F-04E1E29C5576}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2DE524C7-3675-4FDB-A97F-04E1E29C5576}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E5E5F591-3C46-439C-9DCE-37F4BA650929}
+	EndGlobalSection
+EndGlobal

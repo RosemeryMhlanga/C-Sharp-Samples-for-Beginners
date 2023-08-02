@@ -1,0 +1,13 @@
+C:\Users\34282963\Desktop\34282963_Mhlanga_Act4\34282963_Mhlanga_Act4\bin\Debug\DataBaseCompanies.mdf
+C:\Users\34282963\Desktop\34282963_Mhlanga_Act4\34282963_Mhlanga_Act4\bin\Debug\DataBaseCompanies_log.ldf
+C:\Users\34282963\Desktop\34282963_Mhlanga_Act4\34282963_Mhlanga_Act4\bin\Debug\34282963_Mhlanga_Act4.exe.config
+C:\Users\34282963\Desktop\34282963_Mhlanga_Act4\34282963_Mhlanga_Act4\bin\Debug\34282963_Mhlanga_Act4.exe
+C:\Users\34282963\Desktop\34282963_Mhlanga_Act4\34282963_Mhlanga_Act4\bin\Debug\34282963_Mhlanga_Act4.pdb
+C:\Users\34282963\Desktop\34282963_Mhlanga_Act4\34282963_Mhlanga_Act4\obj\Debug\34282963_Mhlanga_Act4.csprojAssemblyReference.cache
+C:\Users\34282963\Desktop\34282963_Mhlanga_Act4\34282963_Mhlanga_Act4\obj\Debug\_34282963_Mhlanga_Act4.Form1.resources
+C:\Users\34282963\Desktop\34282963_Mhlanga_Act4\34282963_Mhlanga_Act4\obj\Debug\_34282963_Mhlanga_Act4.frmList.resources
+C:\Users\34282963\Desktop\34282963_Mhlanga_Act4\34282963_Mhlanga_Act4\obj\Debug\_34282963_Mhlanga_Act4.Properties.Resources.resources
+C:\Users\34282963\Desktop\34282963_Mhlanga_Act4\34282963_Mhlanga_Act4\obj\Debug\34282963_Mhlanga_Act4.csproj.GenerateResource.cache
+C:\Users\34282963\Desktop\34282963_Mhlanga_Act4\34282963_Mhlanga_Act4\obj\Debug\34282963_Mhlanga_Act4.csproj.CoreCompileInputs.cache
+C:\Users\34282963\Desktop\34282963_Mhlanga_Act4\34282963_Mhlanga_Act4\obj\Debug\34282963_Mhlanga_Act4.exe
+C:\Users\34282963\Desktop\34282963_Mhlanga_Act4\34282963_Mhlanga_Act4\obj\Debug\34282963_Mhlanga_Act4.pdb
